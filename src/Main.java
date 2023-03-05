@@ -33,7 +33,7 @@ public class Main {
             System.out.print("\n Try again: ");
             enterWord = scanner.nextLine();
         }
-        System.out.println("You win! ");
+        System.out.println("You are win! ");
 
     }
     public static int  findSymbolOccurance (String word, char letter) {
